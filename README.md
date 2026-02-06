@@ -24,12 +24,11 @@ I'm a passionate **Software Developer** specializing in modern web technologies,
 const hayk = {
   location: "Armenia 🇦🇲",
   role: "Software Developer",
-  company: "Serviceclub",
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
   technologies: {
     frontend: ["React", "Next.js", "Svelte", "SvelteKit"],
     styling: ["Tailwind CSS", "Chakra UI", "SCSS", "LESS"],
-    state: ["Redux Toolkit", "React Query", "Recoil"],
+    state: ["Redux Toolkit", "React Query", "Recoil", "Zustand"],
     graphics: ["Konva.js", "React Konva"],
     backend: ["GraphQL", "Socket.IO", "REST APIs"],
     architecture: ["Monorepo", "Micro-frontends", "Component Libraries"]

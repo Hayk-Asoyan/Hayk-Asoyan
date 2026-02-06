@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** specializing in modern web technologies, currently building innovative solutions at **[Serviceclub](https://app.serviceclub.com/)**. I focus on creating accessible, secure, and performant web applications with clean, maintainable code.
+I'm a passionate **Software Developer** specializing in modern web technologies. I focus on creating accessible, secure, and performant web applications with clean, maintainable code.
 
 ```typescript
 const hayk = {
@@ -83,7 +83,7 @@ const hayk = {
 <td width="50%">
 
 ### 🎯 Current Role
-**Software Developer** at [Serviceclub](https://app.serviceclub.com/)
+**Software Developer**
 - Building scalable web applications
 - Implementing real-time features
 - Creating accessible user interfaces
@@ -268,7 +268,7 @@ const security = {
 ```javascript
 const currentWork = {
   building: [
-    "Scalable web applications at Serviceclub",
+    "Scalable web applications",
     "Accessible component libraries",
     "Real-time communication features",
     "Interactive data visualizations",
@@ -305,7 +305,7 @@ const currentWork = {
 
 ## 🎨 Key Projects & Skills
 
-### 🌐 Serviceclub
+### 🌐
 **Role:** Software Developer  
 **Tech Stack:** React, TypeScript, Tailwind CSS  
 **Highlights:**
@@ -471,7 +471,6 @@ Let's connect and create something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hayk-asoyan)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hayk-asoyan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.serviceclub.com/)
 
 <br/>
 
